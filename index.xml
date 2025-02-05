@@ -408,11 +408,25 @@
       <description>The alternative title brick (title2) creates&amp;hellip; (description coming soon). This is achieved by the following markup:&#xA;{{&amp;lt; brick_title2 &amp;gt;}}{{&amp;lt; /brick_title2 &amp;gt;}} </description>
     </item>
     <item>
+      <title>Új kollégát keresünk!</title>
+      <link>https://sivula.io/hiring_hu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sivula.io/hiring_hu/</guid>
+      <description>Új kollégát keresünk! Háttér A világ számtalan országában, az iparban és a magánszférában is, megkezdődött valamilyen fenntartható, megújuló energiaforrás integrációja már meglévő energia rendszerekbe. Ennek okai lehetnek a növekvő energiaárak, a szolgáltatás bizonytalansága vagy tisztább energiaforrás iránti igény. A piacon kapható termékek azonban sok esetben nem rendelkeznek kellő flexibilitással ahhoz, hogy az új, vagy megváltozott feltételekhez alkalmazkodva a lehető leghatékonyabb, leggazdaságosabb működést tegyék lehetővé, illetve a rendszer más tartozékaival együttműködve ellássanak speciális funkciókat, melyek esetenként nélkülözhetetlenek a rendszer stabil működéséhez.</description>
+    </item>
+    <item>
       <title>Video</title>
       <link>https://sivula.io/docs/shortcodes/video/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sivula.io/docs/shortcodes/video/</guid>
       <description>The video shortcode enables you to put an HTML5 video in your project. You can see it in action on the Elements page. To show a HTML5 video, write the following &amp;lsquo;code&amp;rsquo;:&#xA;{{&amp;lt; video &amp;#34;/uploads/video/flowers.mp4&amp;#34; &amp;gt;}} </description>
+    </item>
+    <item>
+      <title>We Are Hiring!</title>
+      <link>https://sivula.io/hiring_en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sivula.io/hiring_en/</guid>
+      <description>We Are Hiring! Background In most parts of the world, integration of renewable and sustainable sources into energy systems is actively ongoing, both in the commercial and consumer sectors. The reasons for this could be the increasing costs of traditional resources, the insecurity of the supply, or the need for cleaner and more sustainable source of energy. However, energy management system (EMS) products available on the market are not always flexible enough to adapt to the changing circumstances and aren&amp;rsquo;t able to fulfill the continuously changing requirements.</description>
     </item>
     <item>
       <title>Wide</title>
